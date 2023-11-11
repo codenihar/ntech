@@ -18,8 +18,8 @@ buildExpired = false
 [params]
   env = "production" # to enable google analytics, opengraph, twitter-cards and schema.
   title = "Dodagatta Nihar"
-  description = "This is the website of Chanin Nantasenamat, Ph.D. and I create educational content on data science. Some of you may know me as the **Data Professor**."
-  keywords = ["Blog", "Portfolio", "Data Science"]
+  description = "Welcome to MassCoders"
+  keywords = ["Blog", "Portfolio", "Courses"]
   author = "Dodagatta Nihar"
   # author = ["Me", "You"] # multiple authors
   #images = ["<link or path of image for opengraph, twitter-cards>"]
