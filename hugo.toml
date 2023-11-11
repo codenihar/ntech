@@ -1,5 +1,5 @@
 languageCode = "en-us"
-baseURL = "//masscoders.nihar.tech/"
+baseURL = "https://masscoders.nihar.tech/"
 title = "Dodagatta Nihar"
 paginate = 5
 theme = "PaperMod"
@@ -102,17 +102,17 @@ buildExpired = false
 [[menu.main]]
   identifier = "about"
   name = "About"
-  url = "/about/"
+  url = "https://masscoders.nihar.tech/about/"
   weight = 1
 
 [[menu.main]]
   identifier = "blog"
   name = "Blogs"
-  url = "/blogs/"
+  url = "https://masscoders.nihar.tech/blogs/"
   weight = 2
 
 [[menu.main]]
   identifier = "courses"
   name = "Courses"
-  url = "/courses/"
+  url = "https://masscoders.nihar.tech/courses/"
   weight = 3
