@@ -1,0 +1,118 @@
+languageCode = "en-us"
+baseURL = "//nihar.tech/"
+title = "Dodagatta Nihar"
+paginate = 5
+theme = "PaperMod"
+
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+#googleAnalytics = "UA-123-45"
+
+[minify]
+  disableXML = true
+  minifyOutput = true
+
+[params]
+  env = "production" # to enable google analytics, opengraph, twitter-cards and schema.
+  title = "Dodagatta Nihar"
+  description = "This is the website of Chanin Nantasenamat, Ph.D. and I create educational content on data science. Some of you may know me as the **Data Professor**."
+  keywords = ["Blog", "Portfolio", "Data Science"]
+  author = "Dodagatta Nihar"
+  # author = ["Me", "You"] # multiple authors
+  #images = ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat = "January 2, 2006"
+  defaultTheme = "light" # dark, light
+  disableThemeToggle = false
+  responsiveMenu = true
+
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = false
+  disableSpecial1stPost = false
+  disableScrollToTop = false
+  comments = false
+  hidemeta = false
+  hideSummary = false
+  showtoc = false
+  tocopen = false
+
+  [params.label]
+    text = "MassCoders"
+
+
+  [params.profileMode]
+    enabled = true # needs to be explicitly set
+    title = "Heyy MassCoders!👋"
+    subtitle = "I'm **Nihar**, a versatile tech enthusiast with a strong commitment to knowledge sharing and innovation. I wear multiple hats as a **YouTuber** and **Instagram tech influencer**, where I focus on teaching coding, MERN Stack development, and engaging in in-depth discussions about the ever-evolving tech landscape. My genuine love for AI adds an extra layer of excitement to my tech journey. "
+
+    imageUrl = "https://res.cloudinary.com/nihars3/image/upload/v1698579978/tempImagewwyH9B-modified_kzi10d.png"
+    imageWidth = 120
+    imageHeight = 120
+    imageTitle = "Dodagatta Nihar"
+
+  [[params.socialIcons]]
+    name = "youtube"
+    url = "http://youtube.com/@niharrdg?sub_confirmation=1/"
+   [[params.socialIcons]]
+    name = "telegram"
+    url = "https://t.me/masscoders" 
+  [[params.socialIcons]]
+    name = "twitter"
+    url = "https://twitter.com/niihaaarrrr/"
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/niharrdg/"
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/codenihar"
+
+  [params.analytics.google]
+    SiteVerificationTag = "XYZabc"
+  [params.analytics.bing]
+    SiteVerificationTag = "XYZabc"
+  [params.analytics.yandex]
+    SiteVerificationTag = "XYZabc"
+
+  [params.cover]
+    hidden = true # hide everywhere but not in structured data
+    hiddenInList = true # hide on list pages and home
+    hiddenInSingle = false # hide on single page
+
+  [params.editPost]
+    # URL = "https://github.com/chanin-www/content"
+    # Text = "Suggest Changes" # edit text
+    URL = ""
+    Text = "" # edit text
+    appendFilePath = true # to append file path to Edit link
+
+  [params.fuseOpts]
+    isCaseSensitive = false
+    shouldSort = true
+    location = 0
+    distance = 1000
+    threshold = 0.4
+    minMatchCharLength = 0
+    keys = ["title", "permalink", "summary", "content"]
+
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  url = "/about/"
+  weight = 1
+
+[[menu.main]]
+  identifier = "blog"
+  name = "Blogs"
+  url = "/blogs/"
+  weight = 2
+
+[[menu.main]]
+  identifier = "courses"
+  name = "Courses"
+  url = "/courses/"
+  weight = 3
