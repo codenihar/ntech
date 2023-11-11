@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Dodagatta Nihar</title>
+    <link>//nihar.tech/</link>
+    <description>Recent content on Dodagatta Nihar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Nov 2023 23:15:00 +0700</lastBuildDate><atom:link href="//nihar.tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>//nihar.tech/about/</link>
+      <pubDate>Sat, 11 Nov 2023 03:00:00 +0530</pubDate>
+      
+      <guid>//nihar.tech/about/</guid>
+      <description>Heyyyyy there! 🔗💻
+I&amp;rsquo;m Nihar, a versatile tech enthusiast with a strong commitment to knowledge sharing and innovation. I wear multiple hats as a YouTuber and Instagram tech influencer, where I focus on teaching coding, MERN Stack development, and engaging in in-depth discussions about the ever-evolving tech landscape. My genuine love for AI adds an extra layer of excitement to my tech journey.
+My journey doesn&amp;rsquo;t stop at content creation; I&amp;rsquo;m also a motivational speaker, driven by the belief that the right mindset can be a catalyst for personal and professional growth.</description>
+    </item>
+    
+    <item>
+      <title>Blog 1</title>
+      <link>//nihar.tech/blogs/blog-1/</link>
+      <pubDate>Fri, 10 Nov 2023 23:15:00 +0700</pubDate>
+      
+      <guid>//nihar.tech/blogs/blog-1/</guid>
+      <description>Coming soon. Enjoy Pandago! Arrow Life.</description>
+    </item>
+    
+    <item>
+      <title>Blog 2</title>
+      <link>//nihar.tech/blogs/blog-2/</link>
+      <pubDate>Fri, 10 Nov 2023 23:15:00 +0700</pubDate>
+      
+      <guid>//nihar.tech/blogs/blog-2/</guid>
+      <description>Coming soon. Enjoy Pandago, Arrow Life!</description>
+    </item>
+    
+    <item>
+      <title>Web Development with MERN</title>
+      <link>//nihar.tech/courses/course-1/</link>
+      <pubDate>Fri, 10 Nov 2023 23:15:00 +0800</pubDate>
+      
+      <guid>//nihar.tech/courses/course-1/</guid>
+      <description>Watch the videos and complete assignments with your own pace. Learn Consistently, I also provide you with real time projects.</description>
+    </item>
+    
+    <item>
+      <title>Python on IG Reels</title>
+      <link>//nihar.tech/courses/course-2/</link>
+      <pubDate>Thu, 09 Nov 2023 23:15:00 +0700</pubDate>
+      
+      <guid>//nihar.tech/courses/course-2/</guid>
+      <description>Learn Python on IG Reels within 30 days.</description>
+    </item>
+    
+  </channel>
+</rss>
