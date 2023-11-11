@@ -1,5 +1,5 @@
 languageCode = "en-us"
-baseURL = "//nihar.tech/"
+baseURL = "//masscoders.nihar.tech/"
 title = "Dodagatta Nihar"
 paginate = 5
 theme = "PaperMod"
